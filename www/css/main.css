@@ -1,0 +1,30 @@
+#navbar {
+  height: 35px;
+  width: 100%;
+  font-size: 16px;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 1px 1px 2px #333333;
+  background-color: #000084;
+  border-radius: 8px;
+  display: block;
+}
+
+#navbar ul {
+  height: auto;
+  padding: 8px 0px;
+  margin: 0px;
+}
+
+#navbar li {
+  color: #E9BA31;
+  display: inline;
+  padding: 20px;
+}
+
+#footerText {
+  background-color: #8AD9FF;
+  color: #151C62;
+  text-align: center;
+}
